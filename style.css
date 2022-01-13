@@ -110,6 +110,7 @@ a:active {
   justify-content: center;
   width: 100%;
   padding: 1.3rem 0;
+  margin-bottom: -3rem;
 }
 
 .download {
